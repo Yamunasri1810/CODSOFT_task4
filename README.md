@@ -3,10 +3,10 @@
 Sales Prediction
 
 Step 1: Problem Definition
-Predicting the sales based on the amount spend in TV, Radio and 
+Predicting the sales based on the amount spend in TV, Radio and News paper.
 
 Step 2: Data Collection
-Collect the Titanic dataset, and reading the data using the panda library.
+Collect the advertising dataset, and reading the data using the panda library.
 
 Step 3: Data Exploration and Cleaning
 Exploring the data to understand its structure, summary statistics, and identify missing values.
